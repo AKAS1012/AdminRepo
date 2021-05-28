@@ -1,1 +1,0 @@
-web:gunicorn AdminRepo.wsgi --log-file -
